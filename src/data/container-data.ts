@@ -24,13 +24,14 @@ export const containerList: ContainerData[] = [
     tutorials: [
       {
           title: "Running AFFiNE as a Docker Container",
-          blogUrl: "https://www.reddit.com/r/selfhosted/comments/1dz7d38/running_affine_as_a_docker_container_open_source/"
+          blogUrl: "https://www.reddit.com/r/selfhosted/comments/1dz7d38/running_affine_as_a_docker_container_open_source/",
+          youtubeUrl: "https://www.youtube.com/watch?v=ujjIPwW9hng"
       }
     ]
   },
   {
     title: "Cassandra",
-    tags: ["NOSQL", "Database", "Column Database"],
+    tags: ["NoSQL", "Database", "Column Database"],
     githubUrl: "https://github.com/apache/cassandra",
     websiteUrl: "https://cassandra.apache.org/_/index.html",
     logo: "img/cassandra.svg",
