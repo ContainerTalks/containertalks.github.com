@@ -1,8 +1,0 @@
-{
-  "label": "Timeseries Database",
-  "position": 7,
-  "link": {
-    "type": "generated-index",
-    "description": "List of Timeseries Databases"
-  }
-}
