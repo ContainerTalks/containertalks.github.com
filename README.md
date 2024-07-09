@@ -1,3 +1,1 @@
-# Container Talks
-
-https://github.com/igorbarinov/awesome-data-engineering
+[https://containertalks.github.com](https://containertalks.github.com)
