@@ -1,0 +1,28 @@
+.img-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+    height: 60px;
+}
+.app-logo {
+    height: 40px;
+    width: 40px;
+}
+
+small {
+    font-size: 12px;
+}
+
+.card-link {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    color: #0aa5ff;
+    cursor: pointer;
+}

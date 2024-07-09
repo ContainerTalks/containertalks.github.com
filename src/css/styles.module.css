@@ -1,0 +1,194 @@
+.features {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+}
+
+.featureSvg {
+  height: 200px;
+  width: 200px;
+}
+
+.bigSearchInput {
+  width: 100%;
+  padding: 10px;
+  font-size: 18px;
+}
+
+.heroBanner {
+  padding: 1rem 0;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+@media screen and (max-width: 996px) {
+  .heroBanner {
+    padding: 2rem;
+  }
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.smallIcon {
+  width: 24px;
+  height: 24px;
+}
+
+.notes-card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  background-color: #fff;
+  box-shadow: 0 2px 0px rgba(0, 0, 0, 0.1);
+}
+
+.notes-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.notes-card-title {
+  display: flex;
+  align-items: center;
+}
+
+.port-label {
+  margin-left: 8px;
+  font-size: 14px;
+  color: #666;
+}
+
+.service-logo {
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+}
+
+.port-label {
+  margin-left: 8px;
+  font-size: 14px;
+  color: #666;
+  font-weight: bold; /* Make the label bold */
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #ccc;
+  margin: 6px 0;
+}
+
+.helpful-commands {
+  margin-top: 16px;
+}
+
+.helpful-commands h3 {
+  font-size: 18px;
+  margin-bottom: 8px;
+}
+
+.helpful-commands p {
+  font-size: 14px;
+  color: #333;
+}
+
+.features {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0 0 2rem;
+  width: 100%;
+}
+
+.featureSvg {
+  height: 200px;
+  width: 200px;
+}  
+
+.pageHeading {
+  padding: 1rem;
+}
+
+.tableContainer {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.pageTitle {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  text-align: left;
+}
+.mbOne {
+  margin-bottom: 1rem;
+}
+.mbTwo {
+  margin-bottom: 2rem;
+}
+.tag {
+  display: inline-block;
+  background-color: #f0f0f0;
+  color: #333;
+  border: 1px solid #ccc;
+  padding: 0.2rem 0.5rem;
+  margin-right: 0.5rem;
+  border-radius: 4px;
+}
+
+.service-cards {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.service-card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 20px;
+  margin: 10px;
+  width: calc(33.33% - 20px); /* Adjust the width based on your preference */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.service-card h3 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.service-card p {
+  margin-bottom: 5px;
+}
+
+.service-card ul {
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+
+.service-card li {
+  list-style-type: disc;
+  margin-left: 20px;
+}
+
+.heroBanner {
+  padding: 4rem 0;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+@media screen and (max-width: 996px) {
+  .heroBanner {
+    padding: 2rem;
+  }
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+ 
