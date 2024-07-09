@@ -7,10 +7,11 @@ const config: Config = {
   tagline: 'Infinite containers....',
   favicon: 'img/favicon.png',
   themes: [['@easyops-cn/docusaurus-search-local', {hashed: true,indexPages: true}]],
-  url: 'https://container-talks.com',
+  url: 'https://containertalks.github.io/',
   baseUrl: '/',
   organizationName: 'Container Talks',
-  projectName: 'Container Talks',
+  projectName: 'containertalks.github.io',
+  trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   i18n: {
