@@ -15,7 +15,7 @@ export interface ContainerData {
 
 export const containerList: ContainerData[] = [
   {
-    title: "Cassandra",
+    title: "AFFiNe",
     tags: ["AFFiNE", "Miro Alternate", "Notion Alternate"],
     githubUrl: "https://github.com/toeverything/AFFiNE",
     websiteUrl: "https://docs.affine.pro/",
